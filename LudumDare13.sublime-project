@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "LudumDare13",
+			"path": "/Users/dmitriy/Projects/haxeflixel/LudumDare13"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "/Users/dmitriy/haxelib/flixel/3,3,6/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel Addons",
+			"path": "/Users/dmitriy/haxelib/flixel-addons/1,1,0/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "/usr/lib/haxe/std"
+		}
+	]
+}
